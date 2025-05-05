@@ -1,25 +1,4 @@
-/* Table of Contents
-----------------------------------
 
-0- Global CSS
-1- Heading CSS
-2- Button CSS
-3- Header Area CSS
-4- Home Area CSS
-5- About Area CSS
-6- Qualification Area CSS 
-7- Services Area CSS
-8- Portfolio Area CSS
-9- Testimonials Area CSS
-10- Blog Area CSS
-11- Contact Area CSS
-12- Footer Area CSS
-13- Scroll-Top Area CSS
-
-*/
-
-
-/*--------------------- 0- Global CSS (Start) ---------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 :root {
